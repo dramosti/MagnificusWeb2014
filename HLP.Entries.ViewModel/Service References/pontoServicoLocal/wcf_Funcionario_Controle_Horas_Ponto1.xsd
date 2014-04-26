@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:ser="http://schemas.microsoft.com/2003/10/Serialization/" xmlns:tns="http://schemas.datacontract.org/2004/07/HLP.Entries.Model.RecursosHumanos" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/HLP.Entries.Model.RecursosHumanos" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="http://192.168.9.33:8081/wcfSilverlight/Services/wcf_Funcionario_Controle_Horas_Ponto.svc?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+  <xs:import schemaLocation="http://192.168.9.33:8081/wcfSilverlight/Services/wcf_Funcionario_Controle_Horas_Ponto.svc?xsd=xsd3" namespace="http://schemas.datacontract.org/2004/07/HLP.Comum.Model.Models" />
+  <xs:complexType name="ArrayOfFuncionario_Controle_Horas_PontoModel">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Funcionario_Controle_Horas_PontoModel" nillable="true" type="tns:Funcionario_Controle_Horas_PontoModel" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfFuncionario_Controle_Horas_PontoModel" nillable="true" type="tns:ArrayOfFuncionario_Controle_Horas_PontoModel" />
+  <xs:complexType name="Funcionario_Controle_Horas_PontoModel">
+    <xs:complexContent mixed="false">
+      <xs:extension xmlns:q1="http://schemas.datacontract.org/2004/07/HLP.Comum.Model.Models" base="q1:modelBaseBasic">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="dAlteradaUsuario" nillable="true" type="xs:dateTime" />
+          <xs:element minOccurs="0" name="dRelogioPonto" type="xs:dateTime" />
+          <xs:element minOccurs="0" name="hAlteradaUsuario" nillable="true" type="ser:duration" />
+          <xs:element minOccurs="0" name="hRelogioPonto" type="ser:duration" />
+          <xs:element minOccurs="0" name="idFuncionario" type="xs:int" />
+          <xs:element minOccurs="0" name="idFuncionarioControleHorasPonto" nillable="true" type="xs:int" />
+          <xs:element minOccurs="0" name="idSequenciaInterna" type="xs:int" />
+          <xs:element minOccurs="0" name="stFalta" type="xs:unsignedByte" />
+          <xs:element minOccurs="0" name="stFeriasAbono" type="xs:unsignedByte" />
+          <xs:element minOccurs="0" name="xJustificativa" nillable="true" type="xs:string" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="Funcionario_Controle_Horas_PontoModel" nillable="true" type="tns:Funcionario_Controle_Horas_PontoModel" />
+  <xs:complexType name="FuncionarioModel">
+    <xs:complexContent mixed="false">
+      <xs:extension xmlns:q2="http://schemas.datacontract.org/2004/07/HLP.Comum.Model.Models" base="q2:modelBaseBasic">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="dAniversario" type="xs:dateTime" />
+          <xs:element minOccurs="0" name="dHorasAtrabalhar" type="ser:duration" />
+          <xs:element minOccurs="0" name="dHorasTrabalhadas" type="ser:duration" />
+          <xs:element minOccurs="0" name="dSaldo" type="ser:duration" />
+          <xs:element minOccurs="0" name="idEmpresa" type="xs:int" />
+          <xs:element minOccurs="0" name="idFuncionario" type="xs:int" />
+          <xs:element minOccurs="0" name="idSequenciaInterna" type="xs:int" />
+          <xs:element minOccurs="0" name="imgFoto" nillable="true" type="xs:base64Binary" />
+          <xs:element minOccurs="0" name="sMessageFull" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="sMessageSimples" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="xCargo" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="xNome" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="xObservacao" nillable="true" type="xs:string" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="FuncionarioModel" nillable="true" type="tns:FuncionarioModel" />
+</xs:schema>

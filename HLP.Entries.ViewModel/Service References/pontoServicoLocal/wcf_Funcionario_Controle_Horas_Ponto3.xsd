@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://tempuri.org/" elementFormDefault="qualified" targetNamespace="http://tempuri.org/" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="http://192.168.9.33:8081/wcfSilverlight/Services/wcf_Funcionario_Controle_Horas_Ponto.svc?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/HLP.Entries.Model.RecursosHumanos" />
+  <xs:element name="GetAllFuncionario_Controle_Horas_Ponto">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="idFuncionario" type="xs:int" />
+        <xs:element minOccurs="0" name="dRelogioPonto" type="xs:dateTime" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetAllFuncionario_Controle_Horas_PontoResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q1="http://schemas.datacontract.org/2004/07/HLP.Entries.Model.RecursosHumanos" minOccurs="0" name="GetAllFuncionario_Controle_Horas_PontoResult" nillable="true" type="q1:ArrayOfFuncionario_Controle_Horas_PontoModel" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Save">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q2="http://schemas.datacontract.org/2004/07/HLP.Entries.Model.RecursosHumanos" minOccurs="0" name="objFuncionario_Controle_Horas_Ponto" nillable="true" type="q2:Funcionario_Controle_Horas_PontoModel" />
+        <xs:element minOccurs="0" name="idEmpresa" type="xs:int" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="SaveResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q3="http://schemas.datacontract.org/2004/07/HLP.Entries.Model.RecursosHumanos" minOccurs="0" name="SaveResult" nillable="true" type="q3:Funcionario_Controle_Horas_PontoModel" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetFuncionario">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="xCodigoAlternativo" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetFuncionarioResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q4="http://schemas.datacontract.org/2004/07/HLP.Entries.Model.RecursosHumanos" minOccurs="0" name="GetFuncionarioResult" nillable="true" type="q4:FuncionarioModel" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="UserCanRegisterPonto">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="xCodigoAlternativo" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="idEmpresa" type="xs:int" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="UserCanRegisterPontoResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="UserCanRegisterPontoResult" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

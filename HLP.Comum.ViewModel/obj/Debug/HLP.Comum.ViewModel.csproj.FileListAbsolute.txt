@@ -1,0 +1,9 @@
+D:\MagnificusWeb\MagnificusWeb\HLP.Comum.ViewModel\Bin\Debug\HLP.Comum.ViewModel.dll
+D:\MagnificusWeb\MagnificusWeb\HLP.Comum.ViewModel\Bin\Debug\HLP.Comum.ViewModel.pdb
+D:\MagnificusWeb\MagnificusWeb\HLP.Comum.ViewModel\obj\Debug\HLP.Comum.ViewModel.dll
+D:\MagnificusWeb\MagnificusWeb\HLP.Comum.ViewModel\obj\Debug\HLP.Comum.ViewModel.pdb
+D:\GitHub\HLP\MagnificusWeb\HLP.Comum.ViewModel\Bin\Debug\HLP.Comum.ViewModel.dll
+D:\GitHub\HLP\MagnificusWeb\HLP.Comum.ViewModel\Bin\Debug\HLP.Comum.ViewModel.pdb
+D:\GitHub\HLP\MagnificusWeb\HLP.Comum.ViewModel\obj\Debug\HLP.Comum.ViewModel.dll
+D:\GitHub\HLP\MagnificusWeb\HLP.Comum.ViewModel\obj\Debug\HLP.Comum.ViewModel.pdb
+D:\GitHub\HLP\MagnificusWeb\HLP.Comum.ViewModel\obj\Debug\HLP.Comum.ViewModel.csprojResolveAssemblyReference.cache

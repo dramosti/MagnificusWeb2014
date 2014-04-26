@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>\\192.168.9.33\inetpub\wwwroot\MagnificusWeb</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/ClientBin/Images/confirmar.png">
+      <publishTime>03/12/2014 15:48:49</publishTime>
+    </File>
+    <File Include="bin/ClientBin/Images/Folder.png">
+      <publishTime>03/12/2014 14:44:06</publishTime>
+    </File>
+    <File Include="bin/HLP.Comum.Resources.dll">
+      <publishTime>03/19/2014 15:28:18</publishTime>
+    </File>
+    <File Include="bin/HLP.Magnificus.View.Web.Web.dll">
+      <publishTime>04/24/2014 09:37:08</publishTime>
+    </File>
+    <File Include="bin/Images/arrow_down.ico">
+      <publishTime>03/12/2014 09:27:58</publishTime>
+    </File>
+    <File Include="bin/Images/arrow_top.ico">
+      <publishTime>03/12/2014 09:27:58</publishTime>
+    </File>
+    <File Include="ClientBin/HLP.Magnificus.View.Web.xap">
+      <publishTime>04/24/2014 08:39:10</publishTime>
+    </File>
+    <File Include="ClientBin/Images/arrow_down.ico">
+      <publishTime>03/12/2014 09:27:58</publishTime>
+    </File>
+    <File Include="ClientBin/Images/arrow_top.ico">
+      <publishTime>03/12/2014 09:27:58</publishTime>
+    </File>
+    <File Include="ClientBin/Images/confirmar.png">
+      <publishTime>03/12/2014 15:48:49</publishTime>
+    </File>
+    <File Include="ClientBin/Images/Folder.png">
+      <publishTime>03/12/2014 14:44:06</publishTime>
+    </File>
+    <File Include="HLP.Magnificus.View.MagnificusWeb.aspx">
+      <publishTime>03/14/2014 15:19:25</publishTime>
+    </File>
+    <File Include="HLP.Magnificus.View.MagnificusWeb.html">
+      <publishTime>03/14/2014 15:19:29</publishTime>
+    </File>
+    <File Include="HLP.Magnificus.View.WebTestPage.aspx">
+      <publishTime>03/14/2014 15:19:25</publishTime>
+    </File>
+    <File Include="HLP.Magnificus.View.WebTestPage.html">
+      <publishTime>03/14/2014 15:19:29</publishTime>
+    </File>
+    <File Include="MagnificusWeb.aspx">
+      <publishTime>03/14/2014 15:19:25</publishTime>
+    </File>
+    <File Include="MagnificusWeb.html">
+      <publishTime>03/19/2014 16:58:17</publishTime>
+    </File>
+    <File Include="MagnificusWeb.pfx">
+      <publishTime>03/19/2014 15:25:41</publishTime>
+    </File>
+    <File Include="ServiceReferences.ClientConfig">
+      <publishTime>03/17/2014 15:42:29</publishTime>
+    </File>
+    <File Include="Silverlight.js">
+      <publishTime>03/07/2014 08:12:10</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>04/24/2014 09:37:10</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,4 @@
+D:\MagnificusWeb\MagnificusWeb\Dependencies\HLP.Dependencies\Bin\Release\HLP.Dependencies.dll
+D:\MagnificusWeb\MagnificusWeb\Dependencies\HLP.Dependencies\Bin\Release\HLP.Dependencies.pdb
+D:\MagnificusWeb\MagnificusWeb\Dependencies\HLP.Dependencies\obj\Release\HLP.Dependencies.dll
+D:\MagnificusWeb\MagnificusWeb\Dependencies\HLP.Dependencies\obj\Release\HLP.Dependencies.pdb

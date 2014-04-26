@@ -1,0 +1,8 @@
+D:\MagnificusWeb\MagnificusWeb\Dependencies\HLP.Dependencies\Bin\Debug\HLP.Dependencies.dll
+D:\MagnificusWeb\MagnificusWeb\Dependencies\HLP.Dependencies\Bin\Debug\HLP.Dependencies.pdb
+D:\MagnificusWeb\MagnificusWeb\Dependencies\HLP.Dependencies\obj\Debug\HLP.Dependencies.dll
+D:\MagnificusWeb\MagnificusWeb\Dependencies\HLP.Dependencies\obj\Debug\HLP.Dependencies.pdb
+D:\GitHub\HLP\MagnificusWeb\Dependencies\HLP.Dependencies\Bin\Debug\HLP.Dependencies.dll
+D:\GitHub\HLP\MagnificusWeb\Dependencies\HLP.Dependencies\Bin\Debug\HLP.Dependencies.pdb
+D:\GitHub\HLP\MagnificusWeb\Dependencies\HLP.Dependencies\obj\Debug\HLP.Dependencies.dll
+D:\GitHub\HLP\MagnificusWeb\Dependencies\HLP.Dependencies\obj\Debug\HLP.Dependencies.pdb

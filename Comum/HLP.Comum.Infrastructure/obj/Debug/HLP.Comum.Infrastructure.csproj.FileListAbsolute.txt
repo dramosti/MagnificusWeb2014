@@ -1,0 +1,13 @@
+D:\MagnificusWeb\MagnificusWeb\Comum\HLP.Comum.Infrastructure\Bin\Debug\HLP.Comum.Infrastructure.dll
+D:\MagnificusWeb\MagnificusWeb\Comum\HLP.Comum.Infrastructure\Bin\Debug\HLP.Comum.Infrastructure.pdb
+D:\MagnificusWeb\MagnificusWeb\Comum\HLP.Comum.Infrastructure\obj\Debug\HLP.Comum.Infrastructure.dll
+D:\MagnificusWeb\MagnificusWeb\Comum\HLP.Comum.Infrastructure\obj\Debug\HLP.Comum.Infrastructure.pdb
+D:\GitHub\HLP\MagnificusWeb\Comum\HLP.Comum.Infrastructure\Bin\Debug\HLP.Comum.Infrastructure.dll
+D:\GitHub\HLP\MagnificusWeb\Comum\HLP.Comum.Infrastructure\Bin\Debug\HLP.Comum.Infrastructure.pdb
+D:\GitHub\HLP\MagnificusWeb\Comum\HLP.Comum.Infrastructure\obj\Debug\HLP.Comum.Infrastructure.dll
+D:\GitHub\HLP\MagnificusWeb\Comum\HLP.Comum.Infrastructure\obj\Debug\HLP.Comum.Infrastructure.pdb
+D:\bkp-formatacao\BkpProjetos\MagnificusWeb\Comum\HLP.Comum.Infrastructure\obj\Debug\HLP.Comum.Infrastructure.csprojResolveAssemblyReference.cache
+D:\bkp-formatacao\BkpProjetos\MagnificusWeb\Comum\HLP.Comum.Infrastructure\obj\Debug\HLP.Comum.Infrastructure.dll
+D:\bkp-formatacao\BkpProjetos\MagnificusWeb\Comum\HLP.Comum.Infrastructure\Bin\Debug\HLP.Comum.Infrastructure.dll
+D:\bkp-formatacao\BkpProjetos\MagnificusWeb\Comum\HLP.Comum.Infrastructure\Bin\Debug\HLP.Comum.Infrastructure.pdb
+D:\bkp-formatacao\BkpProjetos\MagnificusWeb\Comum\HLP.Comum.Infrastructure\obj\Debug\HLP.Comum.Infrastructure.pdb

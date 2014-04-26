@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://tempuri.org/" elementFormDefault="qualified" targetNamespace="http://tempuri.org/" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="http://192.168.9.33:8080/wcf/camposBaseDadosService.svc?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/HLP.Comum.Model.Components" />
+  <xs:element name="getCamposNotNull">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="xTabela" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getCamposNotNullResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q1="http://schemas.datacontract.org/2004/07/HLP.Comum.Model.Components" minOccurs="0" name="getCamposNotNullResult" nillable="true" type="q1:ArrayOfPesquisaPadraoModelContract" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

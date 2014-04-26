@@ -1,0 +1,24 @@
+﻿<configuration>
+  <system.serviceModel>
+    <bindings>
+      <basicHttpBinding>
+        <binding name="BasicHttpBinding_Iwcf_Funcionario_Controle_Horas_Ponto"
+                 receiveTimeout="00:10:00"
+                 sendTimeout="00:01:00"
+                 openTimeout="00:01:00"
+                 closeTimeout="00:01:00"
+                 maxReceivedMessageSize="2147483647"
+                 maxBufferSize="2147483647"
+                 textEncoding="utf-8" >
+          <security mode="None" />
+        </binding>
+      </basicHttpBinding>
+    </bindings>
+    <client>
+      <endpoint address="http://192.168.9.33:8081/wcfSilverlight/Services/wcf_Funcionario_Controle_Horas_Ponto.svc"
+          binding="basicHttpBinding" bindingConfiguration="BasicHttpBinding_Iwcf_Funcionario_Controle_Horas_Ponto"
+          contract="pontoServicoLocal.Iwcf_Funcionario_Controle_Horas_Ponto"
+          name="BasicHttpBinding_Iwcf_Funcionario_Controle_Horas_Ponto" />
+    </client>
+  </system.serviceModel>
+</configuration>

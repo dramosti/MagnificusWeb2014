@@ -1,0 +1,25 @@
+﻿<xapCache source="D:\GitHub\HLP\MagnificusWeb\View\Silverlight\HLP.Magnificus.View.Web\HLP.Magnificus.View.Web\HLP.Magnificus.View.Web\Bin\Debug\HLP.Magnificus.View.Web.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="26/04/2014 10:21:47">
+  <file source="D:\GitHub\HLP\MagnificusWeb\View\Silverlight\HLP.Magnificus.View.Web\HLP.Magnificus.View.Web\HLP.Magnificus.View.Web\obj\Debug\HLP.Magnificus.View.Web.dll" archivePath="HLP.Magnificus.View.Web.dll" lastWriteTime="24/04/2014 08:39:07" />
+  <file source="D:\GitHub\HLP\MagnificusWeb\Comum\HLP.Comum.Model\Bin\Debug\HLP.Comum.Model.dll" archivePath="HLP.Comum.Model.dll" lastWriteTime="23/04/2014 14:25:52" />
+  <file source="D:\GitHub\HLP\MagnificusWeb\HLP.Comum.ViewModel\Bin\Debug\HLP.Comum.ViewModel.dll" archivePath="HLP.Comum.ViewModel.dll" lastWriteTime="19/03/2014 15:14:11" />
+  <file source="D:\GitHub\HLP\MagnificusWeb\Models\HLP.Entries.Model\Bin\Debug\HLP.Entries.Model.dll" archivePath="HLP.Entries.Model.dll" lastWriteTime="24/04/2014 08:39:05" />
+  <file source="D:\GitHub\HLP\MagnificusWeb\HLP.Entries.ViewModel\Bin\Debug\HLP.Entries.ViewModel.dll" archivePath="HLP.Entries.ViewModel.dll" lastWriteTime="24/04/2014 08:39:06" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Silverlight\v5.0\Libraries\Client\Microsoft.CSharp.dll" archivePath="Microsoft.CSharp.dll" lastWriteTime="18/11/2011 17:40:20" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Expression\Blend\Silverlight\v5.0\Libraries\Microsoft.Expression.Effects.dll" archivePath="Microsoft.Expression.Effects.dll" lastWriteTime="18/02/2013 13:32:08" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Expression\Blend\Silverlight\v5.0\Libraries\Microsoft.Expression.Interactions.dll" archivePath="Microsoft.Expression.Interactions.dll" lastWriteTime="18/02/2013 13:32:08" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Silverlight\v5.0\Libraries\Client\System.ComponentModel.DataAnnotations.dll" archivePath="System.ComponentModel.DataAnnotations.dll" lastWriteTime="18/11/2011 17:40:20" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Silverlight\v5.0\Libraries\Client\System.Windows.Controls.Data.dll" archivePath="System.Windows.Controls.Data.dll" lastWriteTime="18/11/2011 17:40:20" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Silverlight\v5.0\Libraries\Client\System.Windows.Controls.Data.Input.dll" archivePath="System.Windows.Controls.Data.Input.dll" lastWriteTime="18/11/2011 17:40:20" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Silverlight\v5.0\Libraries\Client\System.Windows.Controls.dll" archivePath="System.Windows.Controls.dll" lastWriteTime="18/11/2011 17:40:20" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Silverlight\v5.0\Toolkit\dec11\Bin\System.Windows.Controls.Input.Toolkit.dll" archivePath="System.Windows.Controls.Input.Toolkit.dll" lastWriteTime="09/12/2011 12:25:04" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Silverlight\v5.0\Toolkit\dec11\Bin\System.Windows.Controls.Layout.Toolkit.dll" archivePath="System.Windows.Controls.Layout.Toolkit.dll" lastWriteTime="09/12/2011 12:25:04" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Silverlight\v5.0\Libraries\Client\System.Windows.Controls.Navigation.dll" archivePath="System.Windows.Controls.Navigation.dll" lastWriteTime="18/11/2011 17:40:20" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Silverlight\v5.0\Toolkit\dec11\Bin\System.Windows.Controls.Toolkit.dll" archivePath="System.Windows.Controls.Toolkit.dll" lastWriteTime="09/12/2011 12:25:04" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Silverlight\v5.0\Toolkit\dec11\Bin\System.Windows.Controls.Toolkit.Internals.dll" archivePath="System.Windows.Controls.Toolkit.Internals.dll" lastWriteTime="09/12/2011 12:25:04" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Silverlight\v5.0\Libraries\Client\System.Windows.Data.dll" archivePath="System.Windows.Data.dll" lastWriteTime="18/11/2011 17:40:20" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Expression\Blend\Silverlight\v5.0\Libraries\System.Windows.Interactivity.dll" archivePath="System.Windows.Interactivity.dll" lastWriteTime="18/02/2013 13:32:08" />
+  <file source="D:\GitHub\HLP\MagnificusWeb\Comum\HLP.Comum.Model\Bin\Debug\HLP.Comum.Infrastructure.dll" archivePath="HLP.Comum.Infrastructure.dll" lastWriteTime="23/04/2014 14:25:51" />
+  <file source="D:\GitHub\HLP\MagnificusWeb\HLP.Entries.ViewModel\Bin\Debug\HLP.Comum.Viewcs.dll" archivePath="HLP.Comum.Viewcs.dll" lastWriteTime="19/03/2014 15:19:16" />
+  <file source="D:\GitHub\HLP\MagnificusWeb\HLP.Entries.ViewModel\ServiceReferences.ClientConfig" archivePath="ServiceReferences.ClientConfig" lastWriteTime="17/03/2014 15:42:29" />
+  <file source="D:\GitHub\HLP\MagnificusWeb\View\Silverlight\HLP.Magnificus.View.Web\HLP.Magnificus.View.Web\HLP.Magnificus.View.Web\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="19/03/2014 15:20:26" />
+</xapCache>

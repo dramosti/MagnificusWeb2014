@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/HLP.Comum.Model.Components" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/HLP.Comum.Model.Components" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="ArrayOfPesquisaPadraoModelContract">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="PesquisaPadraoModelContract" nillable="true" type="tns:PesquisaPadraoModelContract" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfPesquisaPadraoModelContract" nillable="true" type="tns:ArrayOfPesquisaPadraoModelContract" />
+  <xs:complexType name="PesquisaPadraoModelContract">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="CHARACTER_MAXIMUM_LENGTH" type="xs:int" />
+      <xs:element minOccurs="0" name="COLUMN_NAME" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="DATA_TYPE" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="IS_NULLABLE" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="PesquisaPadraoModelContract" nillable="true" type="tns:PesquisaPadraoModelContract" />
+</xs:schema>

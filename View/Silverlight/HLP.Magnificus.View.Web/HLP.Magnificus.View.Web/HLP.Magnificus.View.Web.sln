@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HLP.Magnificus.View.Web", "HLP.Magnificus.View.Web\HLP.Magnificus.View.Web.csproj", "{CF796C34-F25A-439D-9619-44B73F1F39C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HLP.Magnificus.View.Web.Web", "HLP.Magnificus.View.Web.Web\HLP.Magnificus.View.Web.Web.csproj", "{6CD9E94C-BA76-4D10-A546-0B5F70F6EAA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF796C34-F25A-439D-9619-44B73F1F39C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF796C34-F25A-439D-9619-44B73F1F39C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF796C34-F25A-439D-9619-44B73F1F39C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF796C34-F25A-439D-9619-44B73F1F39C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CD9E94C-BA76-4D10-A546-0B5F70F6EAA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CD9E94C-BA76-4D10-A546-0B5F70F6EAA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CD9E94C-BA76-4D10-A546-0B5F70F6EAA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CD9E94C-BA76-4D10-A546-0B5F70F6EAA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

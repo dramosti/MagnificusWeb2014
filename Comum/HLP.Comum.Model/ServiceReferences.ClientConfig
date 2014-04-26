@@ -1,0 +1,24 @@
+﻿<configuration>
+    <system.serviceModel>
+        <bindings>
+            <basicHttpBinding>
+                <binding name="BasicHttpBinding_IcamposBaseDadosService" maxBufferSize="2147483647"
+                    maxReceivedMessageSize="2147483647">
+                    <security mode="None" />
+                </binding>
+                <binding name="BasicHttpBinding_IcamposBaseDadosService1" maxBufferSize="2147483647"
+                    maxReceivedMessageSize="2147483647">
+                    <security mode="None" />
+                </binding>
+            </basicHttpBinding>
+        </bindings>
+        <client>
+            <endpoint address="http://192.168.9.33:8080/wcf/camposBaseDadosService.svc"
+                binding="basicHttpBinding" bindingConfiguration="BasicHttpBinding_IcamposBaseDadosService"
+                contract="camposNotNullService.IcamposBaseDadosService" name="BasicHttpBinding_IcamposBaseDadosService" />
+            <endpoint address="http://192.168.9.33:8080/wcf/camposBaseDadosService.svc"
+                binding="basicHttpBinding" bindingConfiguration="BasicHttpBinding_IcamposBaseDadosService1"
+                contract="camposNotNullServices.IcamposBaseDadosService" name="BasicHttpBinding_IcamposBaseDadosService1" />
+        </client>
+    </system.serviceModel>
+</configuration>

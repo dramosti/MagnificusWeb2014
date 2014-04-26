@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="HLP.Wcf.Entries.Services.wcf_Funcionario_Controle_Horas_Ponto" CodeBehind="wcf_Funcionario_Controle_Horas_Ponto.svc.cs" %>

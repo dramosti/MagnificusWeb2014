@@ -28,7 +28,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>03/12/2014 09:27:58</publishTime>
     </File>
     <File Include="ClientBin/HLP.Magnificus.View.Web.xap">
-      <publishTime>04/24/2014 08:39:10</publishTime>
+      <publishTime>05/05/2014 14:21:56</publishTime>
     </File>
     <File Include="ClientBin/Images/arrow_down.ico">
       <publishTime>03/12/2014 09:27:58</publishTime>
@@ -70,7 +70,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>03/07/2014 08:12:10</publishTime>
     </File>
     <File Include="Web.config">
-      <publishTime>04/24/2014 09:37:10</publishTime>
+      <publishTime>05/05/2014 14:54:47</publishTime>
     </File>
   </ItemGroup>
 </Project>

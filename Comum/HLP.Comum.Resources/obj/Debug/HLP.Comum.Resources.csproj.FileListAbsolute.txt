@@ -16,3 +16,10 @@ D:\bkp-formatacao\BkpProjetos\MagnificusWeb\Comum\HLP.Comum.Resources\Bin\Debug\
 D:\bkp-formatacao\BkpProjetos\MagnificusWeb\Comum\HLP.Comum.Resources\obj\Debug\HLP.Comum.Resources.csprojResolveAssemblyReference.cache
 D:\bkp-formatacao\BkpProjetos\MagnificusWeb\Comum\HLP.Comum.Resources\obj\Debug\HLP.Comum.Resources.dll
 D:\bkp-formatacao\BkpProjetos\MagnificusWeb\Comum\HLP.Comum.Resources\obj\Debug\HLP.Comum.Resources.pdb
+D:\GitHub\HLP\MagnificusWeb2014\Comum\HLP.Comum.Resources\Bin\Debug\Images\arrow_down.ico
+D:\GitHub\HLP\MagnificusWeb2014\Comum\HLP.Comum.Resources\Bin\Debug\Images\arrow_top.ico
+D:\GitHub\HLP\MagnificusWeb2014\Comum\HLP.Comum.Resources\Bin\Debug\HLP.Comum.Resources.dll
+D:\GitHub\HLP\MagnificusWeb2014\Comum\HLP.Comum.Resources\Bin\Debug\HLP.Comum.Resources.pdb
+D:\GitHub\HLP\MagnificusWeb2014\Comum\HLP.Comum.Resources\obj\Debug\HLP.Comum.Resources.csprojResolveAssemblyReference.cache
+D:\GitHub\HLP\MagnificusWeb2014\Comum\HLP.Comum.Resources\obj\Debug\HLP.Comum.Resources.dll
+D:\GitHub\HLP\MagnificusWeb2014\Comum\HLP.Comum.Resources\obj\Debug\HLP.Comum.Resources.pdb

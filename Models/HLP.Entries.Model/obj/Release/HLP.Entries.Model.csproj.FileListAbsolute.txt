@@ -35,3 +35,16 @@ D:\bkp-formatacao\BkpProjetos\MagnificusWeb\Models\HLP.Entries.Model\Bin\Release
 D:\bkp-formatacao\BkpProjetos\MagnificusWeb\Models\HLP.Entries.Model\obj\Release\HLP.Entries.Model.csprojResolveAssemblyReference.cache
 D:\bkp-formatacao\BkpProjetos\MagnificusWeb\Models\HLP.Entries.Model\obj\Release\HLP.Entries.Model.dll
 D:\bkp-formatacao\BkpProjetos\MagnificusWeb\Models\HLP.Entries.Model\obj\Release\HLP.Entries.Model.pdb
+D:\GitHub\HLP\MagnificusWeb2014\Models\HLP.Entries.Model\Bin\Release\Images\arrow_down.ico
+D:\GitHub\HLP\MagnificusWeb2014\Models\HLP.Entries.Model\Bin\Release\Images\arrow_top.ico
+D:\GitHub\HLP\MagnificusWeb2014\Models\HLP.Entries.Model\Bin\Release\HLP.Entries.Model.dll
+D:\GitHub\HLP\MagnificusWeb2014\Models\HLP.Entries.Model\Bin\Release\HLP.Entries.Model.pdb
+D:\GitHub\HLP\MagnificusWeb2014\Models\HLP.Entries.Model\Bin\Release\HLP.Comum.Infrastructure.dll
+D:\GitHub\HLP\MagnificusWeb2014\Models\HLP.Entries.Model\Bin\Release\HLP.Comum.Model.dll
+D:\GitHub\HLP\MagnificusWeb2014\Models\HLP.Entries.Model\Bin\Release\HLP.Comum.Resources.dll
+D:\GitHub\HLP\MagnificusWeb2014\Models\HLP.Entries.Model\Bin\Release\HLP.Comum.Infrastructure.pdb
+D:\GitHub\HLP\MagnificusWeb2014\Models\HLP.Entries.Model\Bin\Release\HLP.Comum.Model.pdb
+D:\GitHub\HLP\MagnificusWeb2014\Models\HLP.Entries.Model\Bin\Release\HLP.Comum.Resources.pdb
+D:\GitHub\HLP\MagnificusWeb2014\Models\HLP.Entries.Model\obj\Release\HLP.Entries.Model.csprojResolveAssemblyReference.cache
+D:\GitHub\HLP\MagnificusWeb2014\Models\HLP.Entries.Model\obj\Release\HLP.Entries.Model.dll
+D:\GitHub\HLP\MagnificusWeb2014\Models\HLP.Entries.Model\obj\Release\HLP.Entries.Model.pdb
